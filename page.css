@@ -8013,8 +8013,8 @@ width: 100% !important;
 }
 .u-container-layout {
 position: relative;
-flex: 1;
-max-width: 100%;
+flex: 0;
+max-width: 200%;
 transition-duration: inherit;
 }
 .u-audio-main-layout-wrapper,
