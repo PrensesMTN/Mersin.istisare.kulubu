@@ -4228,6 +4228,5 @@
         S
     }
     ,
-    "undefined" == typeof e && (C.jQuery = C.$ = S),
-    S
+    "undefined" == typeof e && (C.jQuery = C.$ = S),S
 });
